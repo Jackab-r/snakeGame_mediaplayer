@@ -1,0 +1,6 @@
+{
+  "name": "Neon Synth Serpent",
+  "description": "A dark neon aesthetic Music Player and Snake Game combination. Play the classic snake game while listening to dynamically generated algorithmic music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
